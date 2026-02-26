@@ -1,4 +1,4 @@
-# Portfolio Piece: Word Embeddings → Attention (simple + from scratch)
+# Portfolio Piece: Word Embeddings → Attention 
 
 ## What this project is
 This is a small NLP portfolio notebook that shows my understanding two important ideas:
@@ -15,7 +15,7 @@ I’m not training a big model here. The point is: clean implementation + clear 
 - `outputs/` → saved figures + small tables created by the notebook
 - `requirements.txt` → packages used
 
-## What outputs you should see (and what they mean)
+## What outputs you should see 
 When you run the notebook, it prints + plots a few things:
 
 ### 1) Nearest neighbors
