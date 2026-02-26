@@ -9,7 +9,7 @@ This is a small NLP portfolio notebook that shows my understanding two important
 Then I connect them: I take word vectors for a sentence and run **self-attention** to see “who attends to who”.
 
 I’m not training a big model here. The point is: clean implementation + clear inspection.
-
+ 
 ## Files
 - `notebooks/main_analysis_FINAL.ipynb` → the full walkthrough
 - `outputs/` → saved figures + small tables created by the notebook
